@@ -11,7 +11,6 @@ const blogLayout = ({ children }) => {
       <header className="main-header">
         <Link to="/">
           RedeÜberWege
-          {/* <img src="/Pflanzrausch.svg" alt="Pflanzrausch Logo" /> */}
         </Link>
       </header>
       <div

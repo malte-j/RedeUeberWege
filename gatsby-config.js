@@ -54,8 +54,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Pflanzrausch`,
-        short_name: `Pflanzrausch`,
+        name: `RedeÜberWege`,
+        short_name: `RedeÜberWege`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#131313`,
