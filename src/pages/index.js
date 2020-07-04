@@ -6,6 +6,9 @@ import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 import Img from "gatsby-image"
 
+import insta_card from "../../content/assets/instagram-rect.svg"
+import spoti_card from "../../content/assets/spotify-rect.svg"
+
 const BlogIndex = ({ data }) => {
 
   const posts = data.allMarkdownRemark.edges
@@ -14,13 +17,18 @@ const BlogIndex = ({ data }) => {
     <Layout>
       <SEO title="Home" />
       <div className="header">
+
         <div className="header--image">
-        <Img loading="lazy" fluid={data.file.childImageSharp.fluid} />
+          <Img loading="lazy" fluid={data.file.childImageSharp.fluid} />
         </div>
-        <div className="header--content">
-          <img className="header--logo" src="/Pflanzrausch.svg" alt="Pflanzrausch Logo" />
-          <p>Hey, cool dass du uns gefunden hast! Wir sind Lea, Tamara und Malte, Studenten der BHT Berlin, und haben unter dem RZE nützliche Tipps und DIY-Projekte zum Thema Plantsharing und Recycling zusammengestellt. Diese kannst du dir hier als Handbuch herunterladen. Falls du in Berlin lebst und deine Pflanzen mit anderen Teilen willst, kannst du unserer Telegram-Gruppe beitreten.</p>
-          <a className="button" href="https://t.me/pflanzrausch" target="_blank" rel="noreferrer">Telegramgruppe beitreten</a>
+
+        <div className="header--links">
+          <a className="card" href="https://example.com" target="_blank" rel="noreferrer">
+            <img className="card" src={spoti_card} alt="Spotify Logo" />
+          </a>
+          <a className="card" href="https://example.com" target="_blank" rel="noreferrer">
+            <img className="card" src={insta_card} alt="Instagram Logo" />
+          </a>
         </div>
       </div>
 
@@ -32,12 +40,12 @@ const BlogIndex = ({ data }) => {
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
-        <h1 style={{textAlign: "center", margin: rhythm(1.5)}}>Unsere Tipps</h1>
+        <h1 style={{ textAlign: "center", margin: rhythm(1.5) }}>Der Blog zur Show</h1>
 
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <article className="article-preview" key={node.fields.slug} style={{marginBottom: rhythm(2)}}>
+            <article className="article-preview" key={node.fields.slug} style={{ marginBottom: rhythm(2) }}>
               <header>
                 <h3
                   style={{
@@ -92,10 +100,10 @@ export const pageQuery = graphql`
       }
     }
     
-    file(relativePath: { eq: "hero-image.png" }) {
+    file(relativePath: { eq: "podcast-cover.png" }) {
       childImageSharp {
-        fluid(maxWidth: 1080, maxHeight: 1080) {
-          ...GatsbyImageSharpFluid_withWebp_tracedSVG
+        fluid(maxWidth: 1080, maxHeight: 1080, quality: 90) {
+          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }

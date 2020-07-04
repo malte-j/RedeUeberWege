@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Pflanzrausch`,
+    title: `RedeÜberWege`,
     author: {
-      name: `Malte Janßen`,
-      summary: `Beschreibung Autor`,
+      name: `Luise Fuhrhop`,
+      summary: `Host von RedeÜberWege`,
     },
-    description: `Beschreibung Blog`,
-    siteUrl: `https://https://pflanzrausch.github.io/`,
+    description: `Ein Podcast über Wege`,
+    siteUrl: `https://redeueberwege.de/`,
     social: {
       twitter: `todo`,
     },

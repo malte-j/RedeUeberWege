@@ -5,8 +5,7 @@ const Layout = ({ children }) => {
     <div>
       {children}
       <footer>
-        <span>© 2020 Pflanzrausch</span>
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0 Lizensiert</a>
+        <span>© 2020 RedeÜberWege</span>
       </footer>
     </div>
   )
