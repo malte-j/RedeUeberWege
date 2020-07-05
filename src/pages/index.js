@@ -26,7 +26,7 @@ const BlogIndex = ({ data }) => {
           <a className="card" href="https://example.com" target="_blank" rel="noreferrer">
             <img className="card" src={spoti_card} alt="Spotify Logo" />
           </a>
-          <a className="card" href="https://example.com" target="_blank" rel="noreferrer">
+          <a className="card" href="https://www.instagram.com/luisemarieredet/" target="_blank" rel="noreferrer">
             <img className="card" src={insta_card} alt="Instagram Logo" />
           </a>
         </div>
