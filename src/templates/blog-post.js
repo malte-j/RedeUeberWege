@@ -21,19 +21,19 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <h1
             style={{
               marginTop: rhythm(1),
-              marginBottom: 0,
+              marginBottom: rhythm(.8),
             }}
           >
             {post.frontmatter.title}
           </h1>
           <p
             style={{
-              ...scale(-1 / 5),
+              ...scale(-1 / 8),
               display: `block`,
               marginBottom: rhythm(2),
             }}
           >
-            {post.frontmatter.date}
+            {post.frontmatter.date.replace("$", "den")}
           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -90,7 +90,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "dddd, $ DD.MM.YYYY", locale: "de")
         # description
 
       }

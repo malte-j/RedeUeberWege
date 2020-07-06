@@ -1,8 +1,7 @@
 ---
 title: "Folge Eins: Nanna Fuhrhop"
-date: "2020-07-03T23:46:37.121Z"
+date: "2020-07-03"
 ---
-Sonntag, den 12.06.2020
 
 In der ersten Podcastfolge rede ich mit meiner Mutter, Nanna Fuhrhop, Professorin für deutsche Sprache an der Universität Oldenburg. Sie hat mir viel davon erzählt wie sie sich nach der Schule und am Anfang in der Uni gefühlt hat und wie sie es heute komisch findet auf ihren Lebenslauf zu gucken und zu sehen wie "gradlinig" ihr Weg war, da es sich für sie selbst nie so angefühlt hat.
 
