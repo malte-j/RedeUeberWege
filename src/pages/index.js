@@ -23,7 +23,7 @@ const BlogIndex = ({ data }) => {
         </div>
 
         <div className="header--links">
-          <a className="card" href="https://example.com" target="_blank" rel="noreferrer">
+          <a className="card" href="https://open.spotify.com/show/0bWZa57Jzm6ZNonBsBPStF?si=_jM3U6iJQ7-dvobkYMHBvg" target="_blank" rel="noreferrer">
             <img className="card" src={spoti_card} alt="Spotify Logo" />
           </a>
           <a className="card" href="https://www.instagram.com/luisemarieredet/" target="_blank" rel="noreferrer">
