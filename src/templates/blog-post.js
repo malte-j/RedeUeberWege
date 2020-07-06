@@ -7,8 +7,9 @@ import { rhythm, scale } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
-  // const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
+
+  const spotifyLink = <iframe title="Link zu Spotify" src={post.frontmatter.spotifyLink} width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"/>
 
   return (
     <Layout location={location}>
@@ -42,8 +43,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
+
+      
       </article>
 
+      {spotifyLink}
+      
       <nav>
         <ul
           style={{
@@ -91,8 +96,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "dddd, $ DD.MM.YYYY", locale: "de")
-        # description
-
+        spotifyLink
       }
     }
   }
