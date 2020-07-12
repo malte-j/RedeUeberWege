@@ -1,3 +1,8 @@
+---
+title: "Vorstellung"
+date: "2020-07-12"
+spotifyLink: ""
+---
 Jung zu sein, kann schwierig und beängstigend sein. Man kommt aus der Schule raus, ist vielleicht froh, dass es endlich vorbei ist – so war es zumindest bei mir, aber egal, ob gerne zur Schule gegangen oder nicht, so oder so kommt man aus einem geregelten Alltag in einen, den man selbst gestalten muss. 
 Das ist sowohl ein Geschenk als auch eine Belastung. Vielleicht hast du, wie ich, ein Gap-Year eingelegt und für ein paar Monate etwas anderes gemacht und gearbeitet und tolle, wichtige Erfahrungen gesammelt, die dir zudem mehr Zeit verschafft haben, aber früher oder später stehen Entscheidungen an, die dein Leben in eine Richtung lenken werden.
 Ich sage nicht, dass du für immer entscheidest. Eher das Gegenteil – ich bin ein großer Verfechter davon, dass man im Großen und Ganzen sowieso nur für den Moment entscheiden kann, denn alles andere liegt oft außerhalb der eigenen Kontrollmöglichkeiten.
