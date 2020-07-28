@@ -18,8 +18,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     const str = post.frontmatter.spotifyLink;
     console.log(str)
     if(str !== "") {
-      const url = str.match(/src=".*?"/)[0].split("\"")[1];
-      return <iframe title="Link zu Spotify" src={url} width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"/>
+      const id = (new URL(str)).pathname.slice(9);
+
+      return <iframe title="Link zu Spotify" src={`https://open.spotify.com/embed-podcast/episode/${id}`} width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"/>
     } else {
       return "";
     }
