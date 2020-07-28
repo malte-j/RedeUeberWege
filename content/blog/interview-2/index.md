@@ -1,7 +1,7 @@
 ---
 title: "Folge Zwei: Fritjof Hufeland"
 date: "2020-07-27"
-spotifyLink: "https://open.spotify.com/episode/1OBuxugGVpTYpzL6GNKhrt"
+spotifyLink: '<iframe src="https://open.spotify.com/embed-podcast/episode/1OBuxugGVpTYpzL6GNKhrt" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>'
 ---
 In der zweiten Folge sprach ich mit dem Finanzberater Fritjof Hufeland, der sich mit seinem Unternehmen "hufelandfinanz GmbH" selbstständig machte. 
 Ich finde es selbst immer wieder spannend, mir die Gespräche im Nachhinein anzuhören, da ich oft beim interviewen viel zu sehr in meinem Element bin, um wirklich darüber nachzudenken, was ich eigentlich über den Weg und die Entscheidungen, die er für sich getroffen hat, denke.

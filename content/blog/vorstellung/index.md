@@ -1,7 +1,7 @@
 ---
-title: "Vorstellung"
-date: "2020-07-12"
-spotifyLink: ""
+title: 'Vorstellung'
+date: '2020-07-02'
+spotifyLink: '<iframe src="https://open.spotify.com/embed-podcast/episode/4Zvg2JdHYiXwZQRkv8Pjns" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>'
 ---
 Jung zu sein, kann schwierig und beängstigend sein. Man kommt aus der Schule raus, ist vielleicht froh, dass es endlich vorbei ist – so war es zumindest bei mir, aber egal, ob gerne zur Schule gegangen oder nicht, so oder so kommt man aus einem geregelten Alltag in einen, den man selbst gestalten muss. 
 Das ist sowohl ein Geschenk als auch eine Belastung. Vielleicht hast du, wie ich, ein Gap-Year eingelegt und für ein paar Monate etwas anderes gemacht und gearbeitet und tolle, wichtige Erfahrungen gesammelt, die dir zudem mehr Zeit verschafft haben, aber früher oder später stehen Entscheidungen an, die dein Leben in eine Richtung lenken werden.

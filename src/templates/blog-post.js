@@ -5,11 +5,25 @@ import Layout from "../components/blogLayout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
+import facebookLogo from "../../content/assets/facebook.svg"
+import instagramLogo from "../../content/assets/instagram.svg"
+import emailLogo from "../../content/assets/email.svg"
+
+
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const { previous, next } = pageContext
 
-  const spotifyLink = <iframe title="Link zu Spotify" src={post.frontmatter.spotifyLink} width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"/>
+  const spotifyLink = () => {
+    const str = post.frontmatter.spotifyLink;
+    console.log(str)
+    if(str !== "") {
+      const url = str.match(/src=".*?"/)[0].split("\"")[1];
+      return <iframe title="Link zu Spotify" src={url} width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"/>
+    } else {
+      return "";
+    }
+  }
 
   return (
     <Layout location={location}>
@@ -37,18 +51,42 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             {post.frontmatter.date.replace("$", "den")}
           </p>
         </header>
+
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+
+        {spotifyLink()}
+
         <hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
 
+        <div className="social">
+          <h4 className="social--title">Was denkst du? Schreibe mir hier:</h4>
+          <div className="social--links">
+            <a href="https://www.facebook.com/luise.marie.169067" target="_blank" rel="noopener noreferrer">
+              <img src={ facebookLogo } alt=""/>
+            </a>
+            <a href="https://www.instagram.com/luisemarieredet/" target="_blank" rel="noopener noreferrer">
+              <img src={ instagramLogo } alt=""/>
+            </a>
+            <a href="mailto:redeueberwege@web.de" target="_blank" rel="noopener noreferrer">
+              <img src={ emailLogo } alt=""/>
+            </a>
+          </div>
+        </div>
+        
+        <hr
+          style={{
+            marginBottom: rhythm(1),
+          }}
+        />
+        
+
       
       </article>
-
-      {spotifyLink}
-      
+              
       <nav>
         <ul
           style={{

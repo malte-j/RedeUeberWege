@@ -1,7 +1,7 @@
 ---
 title: "Folge Eins: Nanna Fuhrhop"
 date: "2020-07-03"
-spotifyLink: "https://open.spotify.com/embed-podcast/episode/4Zvg2JdHYiXwZQRkv8Pjns"
+spotifyLink: '<iframe src="https://open.spotify.com/embed-podcast/episode/5uuSFNTp5Fq6EBjhYnApom" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>'
 ---
 
 In der ersten Podcastfolge rede ich mit meiner Mutter, Nanna Fuhrhop, Professorin für deutsche Sprache an der Universität Oldenburg. Sie hat mir viel davon erzählt wie sie sich nach der Schule und am Anfang in der Uni gefühlt hat und wie sie es heute komisch findet auf ihren Lebenslauf zu gucken und zu sehen wie "gradlinig" ihr Weg war, da es sich für sie selbst nie so angefühlt hat.
