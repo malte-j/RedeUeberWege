@@ -1,6 +1,6 @@
 ---
 title: "Folge Drei: Krankenschwester"
-date: "2020-07-03"
+date: "2020-08-04"
 spotifyLink: 'https://open.spotify.com/episode/79AYZBcFy7PRUtPfWlpplf'
 ---
 In dieser Folge fand ich sehr spannend, den Tagesablauf einer Krankenschwester mitzuverfolgen. Da sie ja 'Polkraft' ist, sieht es bei ihr ganz besonders aus und ich finde das Konzept sehr interessant, dass man feste Arbeitszeiten und keinen Schichtdienst hat, aber dafür nicht weiß, in welche Abteilung man am jeweiligen Tag kommt.
