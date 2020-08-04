@@ -16,7 +16,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   const spotifyLink = () => {
     const str = post.frontmatter.spotifyLink;
-    console.log(str)
     if(str !== "") {
       const id = (new URL(str)).pathname.slice(9);
 

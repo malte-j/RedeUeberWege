@@ -5,7 +5,7 @@ const Layout = ({ children }) => {
     <div>
       {children}
       <footer>
-        <span>© 2020 RedeÜberWege</span>
+        <span>© 2020 RedeÜberWege | Website von <a href="https://malts.me">Malte Janßen</a></span>
       </footer>
     </div>
   )
