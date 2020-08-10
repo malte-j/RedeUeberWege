@@ -1,6 +1,6 @@
 ---
 title: "Folge Fünf: Simona Selle"
-date: "2020-08-10"
+date: "2020-08-02"
 spotifyLink: 'https://open.spotify.com/episode/6s5DRGEQmRODsyOWeZWrT9'
 ---
 In der Folge mit Simona Selle sprach ich mit ihr über ihre Arbeit an der Universität und natürlich ihren Weg dahin. Da sie einen Job hat, für den es keine direkte Ausbildung gibt, fand ich es sehr spannend zu hören, wie sie da überhaupt hinkam.
