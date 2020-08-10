@@ -1,6 +1,6 @@
 ---
 title: "Folge Vier: Daniel Fuhrhop"
-date: "2020-07-03"
+date: "2020-08-10"
 spotifyLink: 'https://open.spotify.com/episode/3Dd6ySAO4YNOekRZbuJqkj'
 ---
 Es ist für mich immer schwierig über die Folgen zu schreiben, bei denen ich mit Menschen rede, die mir sehr nahe stehen. Deswegen hoffe ich, dass du aus der Folge mit meinem Vater viel mitnehmen konntest und sie dich eventuell auf den ein oder anderen neuen Gedanken gebracht hat.
