@@ -1,6 +1,6 @@
 ---
 title: "Folge Eins: Nanna Fuhrhop"
-date: "2020-07-03"
+date: "2020-07-12"
 spotifyLink: 'https://open.spotify.com/episode/5uuSFNTp5Fq6EBjhYnApom'
 ---
 
