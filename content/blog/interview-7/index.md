@@ -1,6 +1,6 @@
 ---
 title: "Folge Sieben: Inga Isele"
-date: "2020-08-05"
+date: "2020-08-09"
 spotifyLink: 'https://open.spotify.com/episode/10g3iJP6p0pposT81jiiLa'
 ---
 In der siebten Folge sprach ich mit meiner Oma - Inga Isele - über ihren Beruf als Lehrerin. Sie selbst erzählte mir schon oft viel darüber, doch nochmal vieles zu hören und auch neue Dinge zu erfahren, fand ich ganz spannend.
