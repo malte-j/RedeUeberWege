@@ -1,6 +1,6 @@
 ---
 title: "Folge Acht: Anke Fasse"
-date: "2020-07-12"
+date: "2020-08-12"
 spotifyLink: 'https://open.spotify.com/episode/6Rw65j0zt5EsWhRmbQzS3q'
 ---
 Anke Fasse ist Pastorin und arbeitet heute als Seelsorgerin im Krankenhaus. Ich fand es sehr anregend mit ihr zu sprechen, da ich ja auch selbst ein Semester evangelische Theologie studiert habe.
