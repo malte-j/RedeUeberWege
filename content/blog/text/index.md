@@ -1,7 +1,7 @@
 ---
 title: "Stell dir vor, du machst jeden Tag etwas, was dich unglücklich macht"
 date: "2020-09-13"
-spotifyLink: 'https://open.spotify.com/show/0bWZa57Jzm6ZNonBsBPStF'
+spotifyLink: 'https://open.spotify.com/episode/1S1dhjLZYkrauUMEpNnZ4Q'
 ---
 Kannst du dir vorstellen, irgendwann mal etwas zu machen, was dich nur unglücklich macht? Wahrscheinlich ist es schon längst aufgefallen und ich erwähne es an der einen oder anderen Stelle auch, dass ich explizit nach Leuten suche, die ihren Beruf gerne ausüben.
 Denn egal, was ich heute für Ideen, Gedanken, Pläne für meine Zukunft habe, gehe ich mal stark davon aus, dass das Ziel von den meisten in unserem Alter ist, etwas zu finden, was einem Spaß macht. 
