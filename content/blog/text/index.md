@@ -1,6 +1,6 @@
 ---
-title: "Stell dir vor, du machst jeden Tag etwas, was dich unglücklich macht"
-date: "2020-09-13"
+title: "Stell dir vor, du machst jeden Tag etwas, das dich unglücklich macht"
+date: "2020-09-12"
 spotifyLink: 'https://open.spotify.com/episode/1S1dhjLZYkrauUMEpNnZ4Q'
 ---
 Kannst du dir vorstellen, irgendwann mal etwas zu machen, was dich nur unglücklich macht? Wahrscheinlich ist es schon längst aufgefallen und ich erwähne es an der einen oder anderen Stelle auch, dass ich explizit nach Leuten suche, die ihren Beruf gerne ausüben.
