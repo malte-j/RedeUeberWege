@@ -26,4 +26,5 @@ hr müsst euch vorstellen; ich kenne Gabi seit ich klein bin und auf einmal spre
 Was sie mir auf den Weg mitgibt, was ich als eines der schönsten Komplimente erachte, dass ich jemals bekommen habe; ich sei eine Mischung aus meinen beiden Eltern und sie erkennt sowohl meine Mutter als auch meinen Vater in mir. Das fand ich schön und hoffe, dass ich dem gerecht werde.  
 
 Gabi's Buch 'Public Swimming': https://www.schirrmacher-editions.com/
+
 c/o schirrmacher: http://www.gabischirrmacher.de/
