@@ -2,7 +2,7 @@
 title: "Folge Vierundzwanzig: Birte Lipinski"
 date: "2020-12-06"
 spotifyLink: 'https://open.spotify.com/episode/4fztN3d1SXeM7ds4kOcKWE?si=rwBVGmRETzWxOY1zsib0Ow'
-
+---
 Birte Lipinski ist Leiterin des Buddenbrook Hauses in Lübeck. 
 Nach ihrem Studium der Germanistik und Künste, arbeitete sie eine Zeit lang an der Universität und absolvierte dort ihre Promotion. 
 Dann entschloss sie sich jedoch einen etwas anderen Weg einzuschlagen, arbeitete am Theater und fing dann bei der deutschen Studienstiftung an, wo sie jungen Studenten half Stipendien zu bekommen. 
